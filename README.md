@@ -156,16 +156,19 @@ A quiet record of consistency.
 
 ## ☾ Night Garden
 
-Where quiet consistency leaves its trail.
+*Where quiet consistency leaves its trail.*
 
 ## ☾ Night Garden
 
 *Where quiet consistency leaves its trail.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/skyboundsyntax/skyboundsyntax/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skyboundsyntax/skyboundsyntax/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skyboundsyntax/skyboundsyntax/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/skyboundsyntax/skyboundsyntax/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 <br>
 
 <p align="center">
