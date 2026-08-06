@@ -12,7 +12,7 @@
 
 <br>
 
-# ❦ The Prologue
+## ❦ The Prologue
 I enjoy building thoughtful software,
 collecting quiet ideas,
 and learning one concept at a time.
@@ -27,13 +27,11 @@ exploring full-stack development,
 machine learning,
 and systems that solve real problems.
 
-<br>
 
 <p align="center">
 <img src="assets/divider.svg" width="85%">
 </p>
 
-<br>
 
 ## ☾ This Season
 Currently Reading
@@ -46,8 +44,6 @@ Learning
 → Node.js
 → Machine Learning
 → DSA
-
-Building
 
 Building
 
@@ -66,7 +62,7 @@ grown with patience.
 
 <br>
 
-# ✧ Celestial Atlas
+## ✧ Celestial Atlas
 
 Still charting unfamiliar skies.
 
@@ -75,7 +71,7 @@ Every lesson redraws the map.
 Not every journey needs a destination—
 only a reason to keep looking upward.
 
-# ✦ Constellation
+## ✦ Constellation
 
 The tools I return to most often.
 
@@ -95,13 +91,11 @@ The tools I return to most often.
 
 </p>
 
-<br>
 
 <p align="center">
 <img src="assets/divider.svg" width="85%">
 </p>
 
-<br>
 
 ## ⌘ Marginalia
 
@@ -121,19 +115,13 @@ Some problems deserve faster code.
 
 Others deserve slower thinking.
 
-<br>
 
 <p align="center">
 <img src="assets/divider.svg" width="85%">
 </p>
 
-<br>
 
-## ✧ Observatory
-
-A quiet record of consistency.
-
-## ✧ Observatory
+## ✧ The Observatory
 
 *A quiet record of nights spent learning and building.*
 
