@@ -127,20 +127,6 @@ Others deserve slower thinking.
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=skyboundsyntax&show_icons=true&hide_border=true&bg_color=00000000&title_color=DCC9A6&text_color=E8DFD1&icon_color=B89A6B&ring_color=B89A6B&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyboundsyntax&layout=compact&hide_border=true&bg_color=00000000&title_color=DCC9A6&text_color=E8DFD1&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=skyboundsyntax&theme=dark&hide_border=true&background=00000000&ring=B89A6B&fire=B89A6B&currStreakLabel=DCC9A6&sideLabels=E8DFD1&currStreakNum=E8DFD1&sideNums=E8DFD1&dates=8E8E8E"
     alt="GitHub Streak"
   />
