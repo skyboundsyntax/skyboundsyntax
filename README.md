@@ -43,7 +43,9 @@ Learning
 → React
 <br>
 → Node.js
+<br>
 → Machine Learning
+<br>
 → DSA
 
 Building
