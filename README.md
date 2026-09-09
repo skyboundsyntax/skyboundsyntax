@@ -136,12 +136,6 @@ Others deserve slower thinking.
 </p>
 
 ---
-## ✧ OBSERVERS
-<p align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=skyboundsyntax&label=&color=C9A66B&style=flat-square" alt="Profile visitors" />
-</p>
-
 ## ☾ Night Garden
 
 *Where quiet consistency leaves its trail.*
@@ -178,3 +172,21 @@ Never lose my sense of wonder.
 ## ☾ Epilogue
 
 > *There are still constellations I haven't learned by name.*
+
+
+## ✦ OBSERVERS
+
+<p align="center">
+  <br>
+  <img
+    src="https://komarev.com/ghpvc/?username=skyboundsyntax&label=VISITS&color=C9A66B&style=flat-square"
+    alt="Profile visits"
+  />
+  <br><br>
+  <i>Some stay for a moment. Some return.</i>
+  <br>
+  <i>The work remains.</i>
+  <br><br>
+  <sub>✦ THANK YOU FOR STOPPING BY ✦</sub>
+  <br>
+</p>
