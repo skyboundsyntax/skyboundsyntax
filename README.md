@@ -135,6 +135,13 @@ Others deserve slower thinking.
   />
 </p>
 
+---
+## ✧ OBSERVERS
+<p align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=skyboundsyntax&label=&color=C9A66B&style=flat-square" alt="Profile visitors" />
+</p>
+
 ## ☾ Night Garden
 
 *Where quiet consistency leaves its trail.*
