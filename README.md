@@ -130,7 +130,7 @@ Others deserve slower thinking.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=skyboundsyntax&theme=dark&hide_border=true&background=00000000&ring=B89A6B&fire=B89A6B&currStreakLabel=DCC9A6&sideLabels=E8DFD1&currStreakNum=E8DFD1&sideNums=E8DFD1&dates=8E8E8E"
+    src="https://streak-stats.demolab.com/?user=skyboundsyntax&theme=dark&hide_border=true&background=00000000&ring=B89A6B&fire=B89A6B&currStreakLabel=DCC9A6&sideLabels=E8DFD1&currStreakNum=E8DFD1&sideNums=E8DFD1&dates=8E8E8E"
     alt="GitHub Streak"
   />
 </p>
